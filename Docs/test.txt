@@ -1,1 +1,2 @@
-New test file
+Version Control for Docs Folder.
+Added architecture.md and learnings.md
